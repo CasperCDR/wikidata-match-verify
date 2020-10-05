@@ -5,17 +5,17 @@ Muziekweb Rotterdam, the Netherlands
 ## Information and backgrounds
 
 Muziekweb has targeted to link their dataset of musical artists and bands to 
-Wikidata articles. The Mix'n'match tool has proposed many connections but 
-relies on manual verification before publishing the links in articles. Both 
-parties store links to multiple online sources, as does Muzicbrainz. Combining 
-the three sources and their references to other sources can automate the 
-process of verification.
+Wikidata articles as part of the Trompa project (https://trompamusic.eu/). The 
+Mix'n'match tool has proposed many connections but relies on manual 
+verification before publishing the links in articles. Both parties store links 
+to multiple online sources, as does Muzicbrainz. Combining the three sources 
+and their references to other sources can automate the process of verification.
 
 This software tool retrieves links from the named sources and verifies the 
 identifiers. When a link is identified, the references are stored in the 
 Muziekweb dataset. The links are publiccally available at the website 
-https://www.muziekweb.nl when opening the 'external links' overlay on a 
-resource page. For example:
+www.muziekweb.nl when opening the 'external links' overlay on a resource page. 
+For example:
 
 https://www.muziekweb.nl/en/Link/M00000000271
 
