@@ -13,7 +13,7 @@ and their references to other sources can automate the process of verification.
 
 This software tool retrieves links from the named sources and verifies the 
 identifiers. When a link is identified, the references are stored in the 
-Muziekweb dataset. The links are publiccally available at the website 
+Muziekweb dataset. The links are publically available at the website 
 www.muziekweb.nl when opening the 'external links' overlay on a resource page. 
 For example:
 
