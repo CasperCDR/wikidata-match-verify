@@ -19,6 +19,8 @@ resource page. For example:
 
 https://www.muziekweb.nl/en/Link/M00000000271
 
+![Links example](https://raw.githubusercontent.com/CasperCDR/wikidata-match-verify/main/external-links.png "Example of external links on Muziekweb")
+
 ## Running the application
 
 This project has dependencies to internal data structures and libraries from 
