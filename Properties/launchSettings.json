@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Match-Verify": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\DataFiles\\VisualStudio2019\\Projects\\DOC5_Projects\\Match-Verify\\data\\mix-n-match.test.tab"
+    }
+  }
+}
